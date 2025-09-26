@@ -45,10 +45,10 @@ The goal was to:
 ---
 
 ## 📊 Results
-- Logistic Regression: ~82% accuracy  
-- Random Forest: ~87% accuracy  
-- Gradient Boosting: ~89% accuracy  
-- Neural Network: ~85% accuracy  
+- Logistic Regression: ~78% accuracy  
+- Random Forest: ~80% accuracy  
+- Gradient Boosting: ~79% accuracy  
+- Neural Network: ~79% accuracy  
 
 🔥 **Gradient Boosting performed the best with ~89% accuracy and strong ROC-AUC.**
 
